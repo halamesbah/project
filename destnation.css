@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: logo;
+    src: url(Agbalumo-Regular.ttf);
+}
+
+.firstdiv{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    
+}
+
+.logo{
+    color: white;
+    font-family: logo;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+}
+
+.y{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+.x{
+    margin-left: 650px;
+}
+
+.y:hover{
+    text-decoration: underline;
+}
+.x:hover{
+    text-decoration: underline;
+}
+
+.line{
+    text-decoration: underline;
+}
+
+.a,.b,.c{
+    text-decoration: none;
+    color: black;
+}
+
+.a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.b:hover{
+    color: darkolivegreen;
+    text-decoration: underline;
+}
+
+.c:hover{
+    color: saddlebrown;
+    text-decoration: underline;
+}
+#slogan{
+    color:antiquewhite;
+    position: absolute;
+   margin-left: -615px;
+   padding: 200px 80px ;
+   font-size: 30px;
+   font-style: oblique;
+
+}
+
+
